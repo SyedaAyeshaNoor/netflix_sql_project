@@ -134,7 +134,7 @@ SELECT*
 		AND
 		release_year > EXTRACT(YEAR FROM CURRENT_DATE)-10;
 
---14. Find the Top 10 Actors Who Have Appeared in the Highest Number of Movies Produced in India
+--14. Find the Top 10 Actors Who Have Appeared in the Highest Number of Movies Produced in United States
 
 SELECT 
     UNNEST(STRING_TO_ARRAY(casts, ',')) AS actor,
