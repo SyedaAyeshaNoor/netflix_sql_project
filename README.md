@@ -244,7 +244,7 @@ GROUP BY category;
 
 **Audience Targeting Through Ratings**: Analyzing the most common content ratings reveals how Netflix tailors its offerings to different age groups and viewer preferences.
 
-**Regional Distribution**: Country-wise insights, especially the yearly average content released in United Sates, highlight Netflix’s strategic focus on key regional markets.
+**Regional Distribution**: Country-wise insights, especially the yearly average content released in United States, highlight Netflix’s strategic focus on key regional markets.
 
 **Content Categorization Trends**: Grouping titles by keywords and genres offers a clearer picture of popular themes and storytelling patterns on the platform.
 
