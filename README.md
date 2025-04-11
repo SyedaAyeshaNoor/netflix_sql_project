@@ -15,10 +15,9 @@ The data for this project is sourced from the Kaggle dataset:
 
 - **Dataset Link:** [Netflix_Movies_TV_Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-## Schema
+## Netflix Project Schemas
 
 ```sql
---Netflix Project Schemas
 DROP TABLE IF EXISTS NETFLIX;
 CREATE TABLE NETFLIX
 (
